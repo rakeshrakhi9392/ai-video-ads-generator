@@ -44,4 +44,22 @@ A full-stack web application that generates AI-based video ads in real-time usin
 git clone https://github.com/rakeshrakhi9392/ai-video-ads-generator.git
 cd ai-video-ads-generator
 
+2. Install Dependencies
+npm install
+
+3. Create Environment Variables
+Create a .env.local file in the root directory and add your keys:
+
+NEXT_PUBLIC_CONVEX_URL=your_convex_url
+CONVEX_DEPLOYMENT=your_convex_deployment
+AKOOL_API_KEY=your_akool_api_key
+STRIPE_SECRET_KEY=your_stripe_secret_key
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_public_key
+
+4. Start Development Server
+
+npx convex dev  # Start Convex backend (in one terminal)
+npm run dev     # Start Next.js frontend (in another terminal)
+
+
 
