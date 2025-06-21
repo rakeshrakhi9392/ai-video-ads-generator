@@ -61,6 +61,7 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_public_key
 npx convex dev  # Start Convex backend (in one terminal)
 npm run dev     # Start Next.js frontend (in another terminal)
 
+```
 ---
 🧪 App Functionality Flow
 🔐 User Signup & Login
@@ -77,19 +78,6 @@ npm run dev     # Start Next.js frontend (in another terminal)
 
 🎬 Final video is rendered and displayed
 
---- <!--
-📸 Screenshots
-Add your own screenshots here to visually showcase:
-
-Login/Register page
-
-Script generation screen
-
-Avatar & voice selection
-
-Video preview / final result
-
--->
 
 🚀 Deployment
 To deploy this app:
