@@ -63,7 +63,7 @@ npm run dev     # Start Next.js frontend (in another terminal)
 
 ```
 ---
-🧪 App Functionality Flow
+##🧪 App Functionality Flow
 🔐 User Signup & Login
 
 🧾 Create a video script using AI
@@ -79,7 +79,7 @@ npm run dev     # Start Next.js frontend (in another terminal)
 🎬 Final video is rendered and displayed
 
 
-🚀 Deployment
+##🚀 Deployment
 To deploy this app:
 
 Set your environment variables on the hosting platform (e.g., Vercel).
@@ -88,15 +88,15 @@ Deploy both Convex backend and frontend.
 
 Ensure Akool and Stripe APIs are configured for production.
 
-👨‍💻 Author
+##👨‍💻 Author
 madasu rakesh
 
 📧 Reach out for collaboration or feedback!
 
-📄 License
+##📄 License
 This project is licensed under the ISC License. You are free to use, distribute, and modify it.
 
-🙌 Contributions
+##🙌 Contributions
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
 
 
